@@ -1,0 +1,30 @@
+# Work Day Scheduler
+
+## Table of Contents
+-[Installation](#installation)
+-[User-Story](#user-story)
+-[Description](#description)
+-[Usage](#usage)
+-[Credits](#credits)
+-[License](#license)
+
+## Installation 
+N/A
+
+## User Story
+AS AN employee with a busy schedule
+I WANT to add important events to a daily planner
+SO THAT I can manage my time effectivley
+
+## Description
+This project was made to help the user organize their daily schedule to help be more efficient with their time.
+
+## Usage
+The user enters their daily tasks in the allotted time slot and then clicks save to save the event to their localstorage. The slots are color organized and change color based on the time and if the event falls in the past, present, or future.
+
+## Credits
+W3schools
+MSU 
+
+## License
+N/A
